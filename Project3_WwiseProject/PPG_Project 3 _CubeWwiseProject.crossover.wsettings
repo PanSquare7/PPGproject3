@@ -105,9 +105,9 @@
 				<Property Name="MonitoringManager\GameObjectFilter\x64_GameObjectFilters" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_12_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
-				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{12AB6BA9-BE95-4636-B178-3B1E7ED2C715}"/>
+				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{6E8E049A-78F8-4D35-88DE-0908B0612696}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
-				<Property Name="ProjectExplorer\FirstVisible_5_1" Type="string" Value="{6955BBC6-2237-4B48-A146-DD373DC281FD}"/>
+				<Property Name="ProjectExplorer\FirstVisible_5_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_7_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
 				<Property Name="ProjectExplorer\FirstVisible_9_1" Type="string" Value="{41093F77-829F-4D88-8601-E8B25F3D4781}"/>
 				<Property Name="ProjectExplorer\x64_Expanded_11_1" Type="string" Value=""/>
@@ -124,9 +124,9 @@
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_22_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="TdNXgB6NLUCW/VAYol7/Bw9UmMJBZKlAgkqMQL5V0uhE2ocOVuATQb8p7GihJmO4AffzeoMPHEG9iI/vD/wuB1uWkDhayUJBsP55zmBQ94SBdDlDJIPGQYCYRIHRMr/wSd8NIBhM2UG3Te2/C84j58qq+kpfRO9Bh+BCqN9x7+yoAwcoGN7vQbiGHD8VhvDnsig80aet+EGG1Fx8Oqw5kMDth4Jw7g1CitI4IbWE2KYX6rdUuR8wQrx/WB4DcNTqHm0CUu7rsUKEgA46LFeyDN0/Bqj+VsVCrfAB1q/JcVkVTNapkhpcQ7uXGmmryVyc8DJYb+oboEOt932h6xXKMO9BMAKgkKNDvjclefFesN6LLVBeYt+kQ64Bea/Bu1HVqeTaNSaOx0OXrB0wQlDlfRTzjD77INpDllAKPJjTuWo/+BWkAiogRIAys5FmV/FPNhJH+SuHOESkO6kMDHDzjyoqbUFQm0NEqzlJiC56vi/+UEmFRwrZRIjssLRF9rim7wKEUbyYAkWUqedVU3riY9M3vZOB/QRFqmcmPHcZvx9BhxwIaKxJRYJdYd29Y0rlkKUPqHUEVUW0+W9YubFIfXU0eXonIfBFnbcz+BFfZ542bm/fRXiGRpO+/KLmPHmI4Xxu/4N9pEaBYWqsoyNkYihNvGmbQQtHqCtAUyhZu6O2gxtTn78oR6N4ivu4ArTLu8pljUN2dUeMRTt/Ml1z77cdIQxD+DpIg4SF+7wRn2pfz/sYHddESYXUZfiqtJTqqc9b21tYX0mInAC4mSuyAYu55NNKpG1JmG2jwyq9bBOKZBWmEotzSYigcUSfsDOr94i36y6MukmyRDYBQNYPSHUTszsW97pJg8LkL4ibCeekdDtXpaVcSpWQdkJWXyWDkPli3M+4mEq7ed18AsbV6swualj+w4pLnJcPO4Jc36ICoFfv0gRoTJjhpKQNEOdoSCPb9oo1qUyWV4egCvQqZCcZ5/2z5fZMgusBj0P1d0n6ropqe4UpTbAGmwnsBmy7mgSObvh4NU2I3gkIsGEmlpiMaewcb2VNktGjmMEAR1B2r0UH2h2aTYiU9Hyc3mEyIrEYUEpKpk2TGpNADRSlD0MI5Rh+Bc1Nl3jvsaGjENyr+50t0/nnTagNvNrSV/guumRGKQHS702GnKUfRmd32KQTNI3xHvxNrnEkSjLrC8HEfce4pRUrToWNUAqSwRofwVT/U1daTk6vbHCTGdDZgLrS7kdMzu1OrvLpyzGzWP7vFsVj1awGT7hV3Z1aoeIiAaqnD9R+0U+qJXova+OV2g=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="TdNXgB6NLUCW/VAYol7/B0Tahw5W4BNBvynsaKEmY7gB9/N6gw8cQb2Ij+8P/C4HW5aQOFrJQkGw/nnOYFD3hIF0OUMkg8ZBgJhEgdEyv/BJ3w0gGEzZQbdN7b8LziPnyqr6Sl9E70GH4EKo33Hv7KgDBygY3u9BuIYcPxWG8OeyKDzRp634QYbUXHw6rDmQwO2HgnDuDUKK0jghtYTYphfqt1S5HzBCvH9YHgNw1OoebQJS7uuxQoSADjosV7IM3T8GqP5WxUKt8AHWr8lxWRVM1qmSGlxDu5caaavJXJzwMlhv6hugQ633faHrFcow70EwAqCQo0O+NyV58V6w3ostUF5i36RDrgF5r8G7UdWp5No1Jo7HQ5esHTBCUOV9FPOMPvsg2kOWUAo8mNO5aj/4FaQCKiBEgDKzkWZX8U82Ekf5K4c4RKQ7qQwMcPOPKiptQVCbQ0SrOUmILnq+L/5QSYVHCtlEiOywtEX2uKbvAoRRvJgCRZSp51VTeuJjQYccCGisSUWCXWHdvWNK5ZClD6h1BFVFtPlvWLmxSH11NHl6JyHwRZ23M/gRX2eeNm5v30V4hkaTvvyi5jx5iOF8bv+DfaRGgWFqrKMjZGIoTbxpm0ELR6grQFMoWbujtoMbU5+/KEejeIr7uAK0y7vKZY1DdnVHjEU7fzJdc++3HSEMQ/g6SIOEhfu8EZ9qX8/7GB3XREmF1GX4qrSU6qnPW9tbWF9JiJwAuJkrsgGLueTTSqRtSZhto8MqvWwTimQVphKLc0mIoHFEn7Azq/eIt+sujLpJskQ2AUDWD0h1E7M7Fve6SYPC5C+ImwnnpHQ7V6WlXEqVkHZCVl8lg5D5YtzPuJhKu3ndfALG1erMLmpY/sOKS5yXDzuCXN+iAqBX79IEaEyY4aSkDRDnaEgj2/aKNalMlleHoAr0KmQnGef9s+X2TILrAY9D9XdJ+q6KanuFKU2wBpsJ7AZsu5oEjm74eDVNiN4JCLBhJpaYjGnsHG9lTZLRo5jBAEdQdq9FB9odmk2IlPR8nN5hMiKxGFBKSqZNkxqTQA0UpQ9DCOUYfgXNTZd477GhoxDcq/udLdP5502oDbza0lf4LrpkRikB0u9NhpylH0Znd9ikEzSN8R78Ta5xJEoy6wvBxH3HuKUVK06FjVAKksEaH8FU/1NXWk5Or2xwkxnQ2YC60u5HTM7tTq7y6csxs1j+7xbFY9WsBk+4Vd2dWqHiIg=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="qVTuhImMaUKIPBmsr8upRaxluA3hNkVLjvq1RkA/MOPGu1VpNyJIS6FG3Tc9woH9"/>
+				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="qVTuhImMaUKIPBmsr8upRaxluA3hNkVLjvq1RkA/MOM="/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="d3skcWoiBUST25VCHclr7g=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value="jdeZMNgkjUK90cm1Ge2TPA=="/>
@@ -135,7 +135,7 @@
 				<Property Name="RTPC\GameParameterSimValue\{1BC7160B-65AB-47A5-9D7E-CF39A0FF4D2A}" Type="Real64" Value="255"/>
 				<Property Name="RTPC\GameParameterSimValue\{9A7FE12B-15B9-4CBD-85BC-730450CE68B2}" Type="Real64" Value="255"/>
 				<Property Name="RTPC\GameParameterSimValue\{A67DC0D7-586C-47F6-8299-F9026F08679D}" Type="Real64" Value="-48"/>
-				<Property Name="RTPC\GameParameterSimValue\{B1BC4BE3-DED0-4EF1-89E0-83D78E80839C}" Type="Real64" Value="0"/>
+				<Property Name="RTPC\GameParameterSimValue\{B1BC4BE3-DED0-4EF1-89E0-83D78E80839C}" Type="Real64" Value="100"/>
 				<Property Name="RTPC\GameParameterSimValue\{D7FCBFCD-C593-4300-8BC4-68FE275599EF}" Type="Real64" Value="0"/>
 				<Property Name="SettingsUserOverride" Type="bool" Value="True"/>
 				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="GTREnQ9Md0GajFrpFksdJw=="/>
@@ -172,8 +172,8 @@
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
-				<Property Name="SoundEngine\BusMapping\{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" Type="string" Value="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}3563408263"/>
-				<Property Name="SoundEngine\BusMapping\{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}" Type="string" Value="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}3563408263"/>
+				<Property Name="SoundEngine\BusMapping\{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" Type="string" Value="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}2154292742"/>
+				<Property Name="SoundEngine\BusMapping\{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}" Type="string" Value="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}2154292742"/>
 			</PropertyList>
 		</UserProjectSettings>
 	</UserProjectSettingsInfo>

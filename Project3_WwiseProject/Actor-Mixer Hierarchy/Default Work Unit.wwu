@@ -2376,6 +2376,11 @@ This Audio Content cannot be used or modified for a commercial purpose nor for p
 																<Value>-100</Value>
 															</ValueList>
 														</Property>
+														<Property Name="Volume" Type="Real64">
+															<ValueList>
+																<Value>-5</Value>
+															</ValueList>
+														</Property>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Conversion">
@@ -2429,6 +2434,11 @@ This Audio Content cannot be used or modified for a commercial purpose nor for p
 														<Property Name="UserAuxSendVolume0" Type="Real64">
 															<ValueList>
 																<Value>12</Value>
+															</ValueList>
+														</Property>
+														<Property Name="Volume" Type="Real64">
+															<ValueList>
+																<Value>-5</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
